@@ -2,5 +2,5 @@
 font-family: Argos George;
 font-style: normal;
 font-weight: 400;
-src: url(YOUR RAW.GITHACK URL) ;
+src: url(https://rawcdn.githack.com/DinosaurBob/WorldAtlas/2074f2a9d3a653ccec6dee4614f0617f3c3eb425/fonts/ArgosGeorge.ttf) ;
 }
