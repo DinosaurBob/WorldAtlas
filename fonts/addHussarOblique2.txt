@@ -1,0 +1,6 @@
+@font-face{
+font-family: Hussar Bold Oblique 2;
+font-style: normal;
+font-weight: 400;
+src: url(https://rawcdn.githack.com/DinosaurBob/WorldAtlas/5e761055a770954145a3db264fdc9514d3b3b2fb/fonts/HussarBoldObliqueTwo-eYWO.otf) ;
+}
